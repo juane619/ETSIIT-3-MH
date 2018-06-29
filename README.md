@@ -1,14 +1,14 @@
 # ETSIIT-3-MH
 Practices of Metaheuristics
 
-PROBLEMA DEL QAP (Quadratic Assignment Problem)
+QAP PROBLEM (Quadratic Assignment Problem)
 
-Múltiples metaheurísticas para la resolución del QAP.
+Several metaheuristics to solve QAP.
 
-P1: algoritmos Greedy y Búsqueda Local.
+P1: Greedy and Local Search.
 
-P2: algoritmos genéticos y meméticos.
+P2: genetics and memetics algorithms.
 
-P3: enfriamiento simulado, GRASP, BMB(multiarranque), ILS(Iterated Local Search), ILS-ES (híbrido).
+P3: Simulated Annealing, GRASP, BMB(multi boot), ILS(Iterated Local Search), ILS-ES (hibrid).
 
-Código implementado en C++, utilizando POO.
+Code in C++, using POO.
